@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Razvan/test_env/test_env.sim/sim_1/synth/func/xsim/test_env_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'NumBinR16'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/I_Fetch.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'I_Fetch'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/SSD.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SSD'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/test_env.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_env'
+ERROR: [VRFC 10-3353] formal port 'jump_adress' has no actual or default value [C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/test_env.vhd:46]
+ERROR: [VRFC 10-9458] unit 'behavioral' is ignored due to previous errors [C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/test_env.vhd:25]
+INFO: [VRFC 10-8704] VHDL file 'C:/Users/Razvan/test_env/test_env.srcs/sources_1/new/test_env.vhd' is ignored due to errors

@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../test_env.srcs/sources_1/new/DataMem.vhd" \
+"../../../../test_env.srcs/sources_1/new/EX.vhd" \
+"../../../../test_env.srcs/sources_1/new/I_Fetch.vhd" \
+"../../../../test_env.srcs/sources_1/new/NumBinR16.vhd" \
+"../../../../test_env.srcs/sources_1/new/SSD.vhd" \
+"../../../../test_env.srcs/sources_1/new/UC.vhd" \
+"../../../../test_env.srcs/sources_1/new/UD.vhd" \
+"../../../../test_env.srcs/sources_1/new/ram_wr_1st.vhd" \
+"../../../../test_env.srcs/sources_1/new/reg_block.vhd" \
+"../../../../test_env.srcs/sources_1/new/test_env.vhd" \
+
+# Do not sort compile order
+nosort
